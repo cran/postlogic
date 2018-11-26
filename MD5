@@ -1,0 +1,11 @@
+24e9f257cd1a9ea3b657026234349bf0 *DESCRIPTION
+d51b5edb8e8f5fd4fbf7b347c6646f8f *NAMESPACE
+716a239dfd02ad80a5cbc63a243f7ccd *R/if-otherwise.R
+055edf5d34ef4d275800512ec0599259 *R/unless-then.R
+12fedbfb7e89153d7908c02c65c450b5 *README.md
+5fa94bd5078f0b20d4c4cc4290fe9374 *inst/WORDLIST
+9583f652fcfce92064a1318cec1f1c1d *man/if-otherwise.Rd
+24927669136b71ebecb2286275e2cc95 *man/unless-then.Rd
+b6ae89addb28a7b432bcd3e22af53148 *tests/testthat.R
+c90fdff2f8163cdc02d169472708b7f2 *tests/testthat/test-if-otherwise.R
+f72b73d39f9058c21bb71aa81e5bc680 *tests/testthat/test-unless-then.R
